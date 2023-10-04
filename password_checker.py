@@ -33,3 +33,4 @@ def checkPassword(password):
 
 password = input("Please enter password: ")
 checkPassword(password)
+
